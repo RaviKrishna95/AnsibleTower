@@ -1,4 +1,0 @@
-- name: Create a Log Analytics Workspace
-  azure_rm_loganalyticsworkspace:
-    resource_group: hhsc-sme-mac-bep-paas
-    name: hhsc-bep-law-poc1
